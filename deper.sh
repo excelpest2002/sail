@@ -1,0 +1,2 @@
+#closure-library/closure/bin/calcdeps.py -i src/script.js -p src/ -p closure-library -o deps > deps.js
+closure-library/closure/bin/build/depswriter.py --root_with_prefix="sail ../../../sail" > my-deps.js

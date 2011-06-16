@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF_8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/> 
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon-precomposed" href="images/touch-icon.png">
+    <link rel="apple-touch-startup-image" href="images/startup.png">
+	<title>Yellow Pages Directory</title>
+
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/custombutton.css">
+    
+	<script src="compiled.js"></script>
+    <!--<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>-->
+  </head>
+
+  <body onLoad="go()">
+    <div id="thecontainer">
+      <div id="mosaic" style="display:block;" class="section"></div>
+      <div id="search" style="display:none;" class="section"></div>
+      <div id="listings" style="display:none;" class="section"></div>
+      <div id="profile" style="display:none;" class="section"></div>
+    </div>
+    <div id="map" style="display:none;">
+      <div id="map-header">
+        <div id="map-close-button"><div>close</div></div>
+        <div id="map-header-title">The Bestest Place Ever</div>
+      </div>
+      <div id="map_canvas" style="width: 100%; height: 100%;"></div>
+    </div>
+  </body>
+</html> 

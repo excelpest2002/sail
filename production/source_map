@@ -1,0 +1,17 @@
+/** Begin line maps. **/{ "file" : "production/source_map", "count": 1 }
+[1,1,1,1,1,1,1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,4,4,4,4,4,4,4,4,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,7,7,7,7,7,7,7,7,6,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,6,10,10,10,10,10,10,10,10,9,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,9]
+/** Begin file information. **/
+[]
+/** Begin mapping definitions. **/
+["sail/boot.js",1,7]
+["sail/boot.js",1,0,"require"]
+["sail/boot.js",1,8]
+["sail/boot.js",2,7]
+["sail/boot.js",2,0,"require"]
+["sail/boot.js",2,8]
+["sail/boot.js",3,7]
+["sail/boot.js",3,0,"require"]
+["sail/boot.js",3,8]
+["sail/boot.js",4,7]
+["sail/boot.js",4,0,"require"]
+["sail/boot.js",4,8]
